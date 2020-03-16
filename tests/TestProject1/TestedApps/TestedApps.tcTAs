@@ -10,7 +10,7 @@
 					<param name="RunAs" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" userName="" password="" domain="" />
 					<param name="Profile" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
 					<param name="Debug" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" />
-					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug\" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" />
+					<param name="Simple" fileName="Orders.exe" filePath="..\bin\Debug\" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" />
 				</runModeParams>
 			</config>
 			<testData />
