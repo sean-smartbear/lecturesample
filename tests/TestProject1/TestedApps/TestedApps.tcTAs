@@ -7,10 +7,10 @@
 		<child key="{F2A7E2FE-14D2-4739-A1AF-A78BE2E85907}">
 			<config nodeName="Orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
 				<runModeParams activeRunMode="Simple">
-					<param name="RunAs" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" userName="" password="" domain="" />
-					<param name="Profile" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
-					<param name="Debug" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" />
-					<param name="Simple" fileName="Orders.exe" filePath="..\bin\Debug\" parameters="" workFolder="C:\Users\berni\Downloads\lecturesample-master\lecturesample-master\bin\Debug" />
+					<param name="RunAs" parameters="" workFolder="" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="" />
+					<param name="Simple" fileName="Orders.exe" filePath="..\..\..\bin\Debug\" parameters="" workFolder="" />
 				</runModeParams>
 			</config>
 			<testData />
