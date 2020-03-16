@@ -6,6 +6,7 @@
 		<child name="Script" key="{62CBFDFC-9EBE-47BD-8403-C81FAEE6EA54}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
 		<child name="KeywordTests" key="{8D1DA683-9F66-433D-B980-13D5FB6958DC}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
 		<child name="TestedApps" key="{C1C75E75-8AAC-4FD6-91FB-18DF2143231A}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="" path="TestedApps\TestedApps.tcTAs" />
+		<child name="Events" key="{4C25A7E5-DE62-4FD3-BFB7-74A1F15BA10D}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="" path="Events\Events.tcAX" />
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{5069E8D2-5EFD-4888-98CE-AB1E3EBFF0F6}" version="14">
