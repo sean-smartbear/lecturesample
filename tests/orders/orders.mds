@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="14.0">
 	<children>
-		<child name="Script" key="{E91347C6-0380-40A5-89A5-EF4E56E8B29A}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
-		<child name="KeywordTests" key="{6B77941D-64CE-4433-8685-10263E1A3AF8}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
-		<child name="NameMapping" key="{6F58E956-DBFD-4F80-9B13-44C9CF68581D}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
-		<child name="TestedApps" key="{01603A2A-84D5-44F4-B056-28D46931159B}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="" path="TestedApps\TestedApps.tcTAs" />
+		<child name="Stores" key="{DD66A403-2607-496B-9ABF-13EE4806418A}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores" path="Stores\Stores.tcStores" />
+		<child name="NameMapping" key="{0F2AA554-5EFB-4DC0-92D3-56F2C5D26211}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
+		<child name="Script" key="{62CBFDFC-9EBE-47BD-8403-C81FAEE6EA54}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
+		<child name="KeywordTests" key="{8D1DA683-9F66-433D-B980-13D5FB6958DC}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
+		<child name="TestedApps" key="{C1C75E75-8AAC-4FD6-91FB-18DF2143231A}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="" path="TestedApps\TestedApps.tcTAs" />
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
-	<testItems key="{CDC105D6-6010-4029-8AFF-9917AA2FEAF3}" version="14">
+	<testItems key="{5069E8D2-5EFD-4888-98CE-AB1E3EBFF0F6}" version="14">
 		<children>
-			<testItem name="ProjectTestItem1" key="{65395A44-1D0C-4396-A952-2E25B89868BF}" group="False" enabled="True" testMoniker="KDT\{E6012C85-7ED5-4016-9791-EEF94AB1E20F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="ProjectTestItem1" key="{9FDB5ADF-B692-495A-A57E-0839C7B9E43C}" group="False" enabled="True" testMoniker="KDT\{05B991AD-49E1-4D1B-A651-440E078E19D9}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<children />
 			</testItem>
 		</children>
 	</testItems>
-	<variables key="{491B1DE7-766F-4031-99A2-55B4F6D0BC58}">
+	<variables key="{B185C06E-7A2D-4DE8-B0FC-4D8987E63FB8}">
 		<data Version="3" />
 	</variables>
-	<settings key="{A40E223C-B24A-42DC-AB3D-95811BC772F5}">
+	<settings key="{7DD904E8-7CDD-4F27-9BA5-F4015CD801D5}">
 		<settingsVersion value="14.30" />
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
@@ -633,11 +634,11 @@
 		<setting name="ZFJ_ZephyrAccessKey" type="5" value="" />
 		<setting name="ZFJ_ZephyrSecretKey" type="5" value="" />
 	</settings>
-	<analysis key="{0ED05466-F9C5-48CE-A396-4493B725D9D7}" />
+	<analysis key="{42EFA9B5-E420-4B6C-8A76-AF59B0CFEF12}" />
 	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
 		<data />
 	</scc>
-	<issueTracking key="{211FA9FF-04CA-4EAC-B21B-53E8B414D1C6}">
+	<issueTracking key="{EF5086A6-A1C4-4EBF-9976-06D53C817698}">
 		<Templates>
 			<Template Id="{1EB17ADF-E4EB-404D-97DC-AD758A1E8C1D}" ConnectionId="{00000000-0000-0000-0000-000000000000}" Description="This template is used by TestComplete&apos;s Log subsystem to post test results to an issue-tracking system. You can also use it at your desire." Name="CreateWorkItem" IsSystem="True" ItemTypeName="" ProjectName="" IsEditing="False" ItemId="">
 				<Fields>
