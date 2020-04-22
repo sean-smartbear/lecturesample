@@ -8,9 +8,9 @@
 			<config nodeName="Orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
 				<runModeParams activeRunMode="Simple">
 					<param name="RunAs" parameters="" workFolder="" userName="" password="" domain="" />
-					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="8" forceRunMode="False" />
 					<param name="Debug" parameters="" workFolder="" />
-					<param name="Simple" fileName="Orders.exe" filePath="..\..\..\bin\Debug\" parameters="" workFolder="" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\Public\Documents\TestComplete 14 Samples\Desktop\Orders\C#\bin\Release\" parameters="" workFolder="" />
 				</runModeParams>
 			</config>
 			<testData />
